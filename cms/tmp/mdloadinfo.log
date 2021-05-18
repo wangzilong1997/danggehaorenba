@@ -1,0 +1,1 @@
+{"masterPid":5492,"listen":"0.0.0.0:1101","CPULoadavg":{"1m":"0.00","5m":"0.00","15m":"0.00"},"https":false,"http2":false,"workers":[{"pid":11080,"cpu":"0.00%","cputm":597,"mem":{"rss":"26.5","heap":"6.1","heapused":"4.2","external":"1.7"},"conn":0},{"pid":7860,"cpu":"0.00%","cputm":597,"mem":{"rss":"28.7","heap":"6.3","heapused":"4.5","external":"1.7"},"conn":0}]}

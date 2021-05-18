@@ -1,0 +1,23 @@
+{
+  "name": "wight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gohttp": "^4.0.4",
+    "marked": "^2.0.1",
+    "pg": "^8.5.1",
+    "psqlorm": "^4.1.2",
+    "titbit": "^22.2.3",
+    "titbit-httpc": "^1.0.8",
+    "titbit-loader": "^21.4.5",
+    "titbit-token": "^2.0.0",
+    "titbit-toolkit": "^2.3.10"
+  }
+}
